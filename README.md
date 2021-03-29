@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrDisgusting
+- 👋 Hi, I’m Pawan Chaturvedi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript and ReactJs
 - 📫 How to reach me pawanchatuvedi779@gmail.com
